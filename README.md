@@ -2,6 +2,10 @@
 
 一个功能强大的网络资产信息收集工具，支持多目标、多线程、智能字典等特性。
 
+<img width="614" height="819" alt="image" src="https://github.com/user-attachments/assets/7ad9455a-1b9b-444b-8b9c-88d611726866" />
+<img width="625" height="487" alt="image" src="https://github.com/user-attachments/assets/70a15970-8293-4343-9cd5-9714b172ec06" />
+
+
 ## 功能特性
 
 ### 基础信息收集
