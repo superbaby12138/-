@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+requests
+dnspython
+python-whois
+pandas
