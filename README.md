@@ -138,4 +138,6 @@ asset_collector/
 本项目采用 MIT 许可证，详见 LICENSE 文件。
 
 如果喜欢此项目，可以请作者喝杯咖啡支持一下
-[wx.png](https://github.com/superbaby12138/Information-Collection/blob/main/wx.png)
+
+<img width="684" height="940" alt="wx" src="https://github.com/user-attachments/assets/21e4a1d6-dcca-432f-be96-d2c3d8e4b687" />
+
